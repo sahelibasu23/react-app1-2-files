@@ -1,5 +1,7 @@
 ## Some intro :
 
+[Link to reference](https://www.digitalocean.com/community/tutorials/how-to-build-forms-in-react)
+
 Step 1 — Creating a Basic Form with JSX
 Step 2 — Collecting Form Data Using Uncontrolled Components
 Step 3 — Updating Form Data Using Controlled Components
